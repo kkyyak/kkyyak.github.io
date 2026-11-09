@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Wang / Personal Homepage"
+title                    : "Jian Wang | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Jian Wang"
-description              : &description "personal description"
+description              : &description "Personal academic homepage of Jian Wang (Ph.D. Student @ SOKENDAI / NII & Senior Engineer @ Astemo, Ltd.)"
 url                      : https://kkyyak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "kkyyak/kkyyak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,21 +82,21 @@ analytics:
 author:
   name             : "Jian Wang"
   avatar           : "profile.png"
-  bio              : SOKENDAI #"Your biography for the left-hand sidebar"
-  location         : "Tokyo Japan"
-  employer         : #"Hitachi Astemo, Ltd."
+  bio              : "Ph.D. Student @ SOKENDAI / NII<br>Senior R&D Engineer @ Astemo, Ltd."
+  location         : "Kanagawa / Tokyo, Japan"
+  employer         : "Astemo, Ltd. & NII"
   pubmed           : 
   googlescholar    : 
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  email            : "we.ouken@gmail.com"
+  researchgate     : 
+  uri              : "https://kkyyak.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "kkyyak"
   google_plus      :
   keybase          :
   instagram        :
