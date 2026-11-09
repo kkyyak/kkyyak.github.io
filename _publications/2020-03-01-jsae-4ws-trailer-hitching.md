@@ -19,3 +19,4 @@ Coupling a passenger vehicle with a trailer (hitching) is a challenging task wit
 * **Volume/Issue**: Vol. 51, No. 2, pp. 298–303 (March 2020)
 * **Paper No.**: 20204095
 * **DOI**: [10.11351/jsaeronbun.51.298](https://doi.org/10.11351/jsaeronbun.51.298)
+

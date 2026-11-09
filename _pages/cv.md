@@ -19,23 +19,22 @@ Education
 * **Master of Engineering (M.Eng.)**  
   *Tokyo Metropolitan University (首都大学東京)*, Tokyo, Japan  
   * Focus: Human Interface & Ergonomics, Time-Series Gaze Analysis
-* **Bachelor of Engineering (B.Eng.)**  
 
 Work Experience
 ======
-* **2016 – Present: Senior R&D Engineer & Engineering Management**  
+* **2016 – Present: R&D Engineer**  
   *Astemo, Ltd.* (formerly *Hitachi Astemo, Ltd.* / *Hitachi Automotive Systems, Ltd.*), Japan  
   * Core development of automated vehicle motion control, intersection collision mitigation (AEB), and driver assistance systems.
-  * Research and algorithmic design for millimeter-wave radar stationary object discrimination and sensor fusion.
+  * Research and algorithmic design for millimeter-wave radar stationary object discrimination and multi-sensor fusion.
   * System architecture for four-wheel-steering (4WS) automated trailer hitching assist.
 
 Honors & Awards
 ======
 * **Strategic Invention Award — Bronze Prize (社長戦略発明賞 銅賞)**  
   *Hitachi Astemo, Ltd.* (Conferred by President & CEO, Nov 16, 2023)  
-  * For seminal algorithmic invention in millimeter-wave radar stationary obstacle detection (PCT/JP2023/007257 / WO 2023/162234).
+  * Conferred for seminal algorithmic inventions in millimeter-wave radar stationary obstacle detection and multi-sensor external recognition (PCT/JP2023/007257 / WO 2023/162234 and associated patent).
 
-Patents & Intellectual Property (Selected)
+Patents & Intellectual Property
 ======
 *All assignees: Astemo, Ltd. (formerly Hitachi Astemo, Ltd. / Hitachi Automotive Systems, Ltd.)*
 
@@ -57,10 +56,10 @@ Patents & Intellectual Property (Selected)
    * Jackknife and rollover prevention during articulated vehicle emergency braking maneuvers.
 5. **Vehicle Control Device (車両制御装置)**  
    * **US Patent 12,662,117 B2**, Registered 2026.  
-   * *Inventors: Jian Wang, Taku Takahama, Uemura.*  
+   * *Inventors: Jian Wang, Taku Takahama, et al.*  
    * Lane tracing and steering assist control counteracting crosswind disturbances.
-6. **Vehicular External Recognition Device and Vehicle Control Method (外界認識装置および車両制御方法)**  
-   * **US Patent 12,694,689 B2**, Registered Jul 2026.  
+6. **Vehicle Control System Externality Recognition Device and Vehicle Control Method (外界認識装置および車両制御方法)**  
+   * **US Patent 12,694,689 B2**, Registered Jul 2026 (Associated invention of the 2023 Strategic Invention Award).  
    * *Inventors: Junya Iizuka, Takashi Okada, Jian Wang, Taku Takahama.*  
    * Temporal synchronization and fusion framework for heterogeneous perception sensors with differential latencies.
 
@@ -77,4 +76,4 @@ Technical Skills
 ======
 * **Domains**: Autonomous Driving Security, Sensor Attack Defense (Adversarial Patch / Optical), Vehicle Motion Control, Extended Kalman Filter (EKF), Sensor Fusion.
 * **Tools & Frameworks**: Python, PyTorch, C/C++, MATLAB/Simulink, Git, Linux.
-* **Languages**: Chinese (Native), Japanese (Fluent / Working proficiency), English (Professional working proficiency).
+* **Languages**: Chinese (Native), Japanese (Fluent / Working proficiency), English (Working proficiency).

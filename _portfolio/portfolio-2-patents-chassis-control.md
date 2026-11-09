@@ -11,3 +11,4 @@ A comprehensive industrial intellectual property portfolio assigned to Astemo, L
 * **US Patent 12,691,855 B2**: Articulated vehicle panic braking assist and jackknife prevention.
 * **US Patent 12,662,117 B2**: Lane tracing assist and disturbance rejection steering control.
 * **US Patent 12,694,689 B2**: Multi-sensor temporal synchronization and fusion architecture.
+

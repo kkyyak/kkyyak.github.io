@@ -16,3 +16,4 @@ Accurate real-time knowledge of the relative yaw angle (articulation angle) betw
 
 * **Conference**: The 6th SICE Multi-Symposium on Control Systems (第6回 計測自動制御学会 制御部門マルチシンポジウム / MSCS 2019)
 * **Venue**: Kumamoto, Japan (March 2019)
+

@@ -15,3 +15,4 @@ citation: 'Jian Wang, Ryoichi Otsuka, Takanori Chihara, Masahiro Yamanaka, Keisu
 This study investigates the physiological and ergonomic impact of mental workload on human smooth pursuit eye movement and effective visual field degradation (tunnel vision / narrowing effect). Time-series gaze analysis and subjective workload metrics were integrated to reveal cognitive degradation boundaries under high task density.
 
 * **Conference**: Human Interface Symposium 2015 (ヒューマンインタフェースシンポジウム 2015)
+
