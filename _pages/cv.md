@@ -32,36 +32,28 @@ Honors & Awards
 ======
 * **Strategic Invention Award — Bronze Prize (社長戦略発明賞 銅賞)**  
   *Hitachi Astemo, Ltd.* (Conferred by President & CEO, Nov 16, 2023)  
-  * Conferred for seminal algorithmic inventions in millimeter-wave radar stationary obstacle detection and multi-sensor external recognition (PCT/JP2023/007257 / WO 2023/162234 and associated patent).
+  * Conferred for algorithmic and R&D contributions to millimeter-wave radar stationary obstacle detection.
 
 Patents & Intellectual Property
 ======
 *All assignees: Astemo, Ltd. (formerly Hitachi Astemo, Ltd. / Hitachi Automotive Systems, Ltd.)*
 
-1. **Vehicle Control Device (車両制御装置)**  
-   * **Japan Patent No. 7833556** (JP 7833556 B2), Registered Mar 2026.  
+1. **Braking Support Control Device (ブレーキ支援制御装置)**  
+   * **US Patent 12,691,853 B2** (Pub. US 2025/0187569 A1; Family: PCT/JP2022/031918 / DE112022006401.3T), Granted Jul 28, 2026.  
    * *Inventors: Jian Wang, Taku Takahama.*  
-   * Real-time intersection turning trajectory prediction and adaptive collision mitigation braking.
-2. **Object Detection Device and Method (物体検知装置及び物体検知方法)**  
-   * **PCT/JP2023/007257** (WO 2023/162234), Conferred Strategic Invention Award 2023.  
-   * *Inventors: Jian Wang et al.*  
-   * Radar Doppler velocity discrimination for stationary road obstacles and false alarm suppression.
-3. **Braking Support Control Device (ブレーキ支援制御装置)**  
-   * **US Patent 12,691,853 B2** (WO 2023/032731 / DE112022006401.3T), Registered Jul 2026.  
+   * Adaptive AEB and deceleration control with judgment thresholds dynamically modulated by a future obstacle prediction accuracy index.
+2. **Automatic Emergency Braking Device**  
+   * **US Patent 12,466,366 B2**, Granted Jul 29, 2025.  
    * *Inventors: Jian Wang, Taku Takahama.*  
-   * Adaptive deceleration control modulated by real-time obstacle prediction accuracy index.
-4. **Trailer Panic Braking Assist System (トレーラ・パニックブレーキ支援装置)**  
-   * **US Patent 12,691,855 B2**, Registered Jul 2026.  
+   * Optimizes automatic emergency braking activation timing during oncoming and opposite-lane entry scenarios.
+3. **Vehicle Control Device (車両制御装置)**  
+   * **Japan Patent No. 7833556** (JP 7833556 B2), Registered Mar 19, 2026 / **US Pub. US 2026/0028021 A1**, Published Jan 29, 2026 (Family: WO 2024/069728 A1 / EP 4597470 A4).  
    * *Inventors: Jian Wang, Taku Takahama.*  
-   * Jackknife and rollover prevention during articulated vehicle emergency braking maneuvers.
-5. **Vehicle Control Device (車両制御装置)**  
-   * **US Patent 12,662,117 B2**, Registered 2026.  
-   * *Inventors: Jian Wang, Taku Takahama, et al.*  
-   * Lane tracing and steering assist control counteracting crosswind disturbances.
-6. **Vehicle Control System Externality Recognition Device and Vehicle Control Method (外界認識装置および車両制御方法)**  
-   * **US Patent 12,694,689 B2**, Registered Jul 2026 (Associated invention of the 2023 Strategic Invention Award).  
-   * *Inventors: Junya Iizuka, Takashi Okada, Jian Wang, Taku Takahama.*  
-   * Temporal synchronization and fusion framework for heterogeneous perception sensors with differential latencies.
+   * Vehicle position estimation and turning-trajectory control for curved and intersection paths.
+4. **Vehicle Coupling Assistance Device**  
+   * **US Patent 12,179,835 B2**, Granted Dec 31, 2024.  
+   * *Inventors: Jian Wang, Taku Takahama.*  
+   * Multi-wheel steering mode control for trailer hitching and vehicle coupling assistance.
 
 Publications
 ======

@@ -22,12 +22,14 @@ Specifically, my research focuses on:
 Industry Background & Achievements
 ======
 Prior to and alongside my doctoral studies, I have dedicated over a decade to core automotive chassis control and active safety systems at Hitachi / Astemo. My industrial track record includes:
-* **Hitachi Astemo Strategic Invention Award (Bronze Prize, 2023)** for breakthrough algorithmic contributions in radar-based stationary object detection, false-alarm suppression, and multi-sensor recognition.
-* **6 Granted and Published Patents (JP/US/PCT)** covering intersection collision mitigation, trailer hitching assist, emergency braking support under prediction uncertainty, and multi-sensor temporal synchronization.
+* **Hitachi Astemo Strategic Invention Award (Bronze Prize, 2023)** for algorithmic and R&D contributions to millimeter-wave radar stationary obstacle detection and false-alarm suppression.
+* **4 Granted and Published Patent Families (JP/US/PCT)** covering adaptive emergency braking modulated by prediction accuracy, oncoming-lane AEB timing optimization, curved/turning-trajectory vehicle control, and multi-wheel steering trailer coupling assistance.
 * **Automotive Engineering Publications** in the *Transactions of the Society of Automotive Engineers of Japan (JSAE)* and SICE.
 
 News & Recent Updates
 ======
-* **Jul 2026**: Granted US Patent 12,691,853 B2 (*Braking support control device*), US Patent 12,691,855 B2 (*Trailer panic braking assist*), and US Patent 12,694,689 B2 (*Vehicle control system externality recognition device*).
-* **Mar 2026**: Registered Japan Patent No. 7833556 (*Vehicle Control Device*).
+* **Jul 2026**: Granted US Patent 12,691,853 B2 (*Braking support control device*).
+* **Mar 2026**: Registered Japan Patent No. 7833556 (*Vehicle Control Device*) following US publication US 2026/0028021 A1 (Jan 2026).
+* **Jul 2025**: Granted US Patent 12,466,366 B2 (*Automatic emergency braking device*).
+* **Dec 2024**: Granted US Patent 12,179,835 B2 (*Vehicle coupling assistance device*).
 * **Nov 2023**: Awarded the *Strategic Invention Award (Bronze Prize)* by President & CEO of Hitachi Astemo, Ltd.
